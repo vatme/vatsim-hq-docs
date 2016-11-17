@@ -1,3 +1,3 @@
-# My Awesome Book
+# VATAME HQ System
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The VATAME HQ system is a management tool used by members of the VATSIM network.
