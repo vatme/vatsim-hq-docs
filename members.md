@@ -81,5 +81,4 @@ To create a new Observation Request, click the green "Add Observation Request" b
 On the Observation Request form page, you should start by reading the "policy". This is very important otherwise, your request may be rejected. In addition, you should also review your vACC training policies to see if they have added anything more about Observation Requests. Fill out the rest of the form fields and submit. 
 ![](https://hq.vatme.net/hqfaq/images/obsreq2.png)
 
-Disk check 
-![](prof2.png)
+
