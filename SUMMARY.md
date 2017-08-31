@@ -1,6 +1,8 @@
-# Summary
-
+# Getting Started
 * [Introduction](README.md)
+
+# HQ Menu
+
 * [Members](members.md)
 * [BoG/Founders](bogfounders.md)
 * [Regional Staff](regional-staff.md)
