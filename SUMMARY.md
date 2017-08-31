@@ -2,14 +2,14 @@
 
 * [Introduction](README.md)
 * [Members](members.md)
-* BoG/Founders
-* Regional Staff
+* [BoG/Founders](bogfounders.md)
+* [Regional Staff](regional-staff.md)
 * Division Staff
 * vACC Staff
 * Instructors/Mentors
 * Exam Center
 * Policy/Procedures
 * Tasks
-* HQ Bot
-* HQ API
+* [HQ Bot](hq-bot.md)
+* [HQ API](hq-api.md)
 
