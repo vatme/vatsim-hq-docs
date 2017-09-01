@@ -20,9 +20,9 @@ Instructors can submit report for rating upgrades for members. You can do so by 
 
 #### Add my Availability
 
-Instructors and mentors can post available times to mentors a student. Student will then be able to pick your time if they are available. Once the student has picked up your availability, instructor/mentor will be notified on email and in the HQ. When adding your availability you can chose between two restrictions for students. **Rating Restrictions **and **Residents/Visitors Restriction. **If you would like to restrict your session to only a certain rating, then you may select your desired rating under **Rating Restrictions**. Once added, only students with the specific rating will be able to choose your mentoring session.
+Instructors and mentors can post available times to mentor a student. Students will then be able to pick your time if they are available. Once the student has picked up your availability, instructor/mentor will be notified on email and in the HQ. When adding your availability you can chose between two restrictions for students. **Rating Restrictions **and **Residents/Visitors Restriction. **If you would like to restrict your session to only a certain rating, then you may select your desired rating under **Rating Restrictions**. Once added, only students with the specific rating will be able to choose your mentoring session.
 
-Example: If you would like to do a session for **Observers \(OBS\)**, chose **Observers \(OBS\) **under **Rating Restrictions.**
+Example: If you would like to do a session for **Observers \(OBS\)**, choose **Observers \(OBS\) **under **Rating Restrictions.**
 
 You can also restrict your session to only resident or visitor controllers. You can do so by choosing either **Any, Visitors only **or **Residents only **when adding your available times.
 
@@ -36,5 +36,5 @@ Once the instructor/mentor has finished a mentoring session the session should b
 
 #### My Session
 
-In the **My Sessions **section you will be able to a list of all the mentoring session you have picked up. You may view all your **"Pending" **and **"Completed" **sessions from this page.
+In the **My Sessions **section you will be able to a list of all the mentoring session you have picked up. You can view all your **"Pending" **and **"Completed" **sessions from this page.
 
