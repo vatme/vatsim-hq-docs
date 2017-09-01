@@ -36,5 +36,5 @@ Once the instructor/mentor has finished a mentoring session the session should b
 
 #### My Session
 
-In the **My Sessions **section you will be able to a list of all the mentoring session you have picked up. You can view all your **"Pending" **and **"Completed" **sessions from this page.
+In the **My Sessions **section you will be able to see a list of all the mentoring sessions you have picked up. You can view all your **"Pending" **and **"Completed" **sessions from this page.
 
