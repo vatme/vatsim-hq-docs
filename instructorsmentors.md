@@ -28,19 +28,13 @@ You can also restrict your session to only resident or visitor controllers. You 
 
 #### Pick a Mentoring Session
 
-To pick up a student request go to the **Mentoring Requests **section. This page will list all the available students requests. By accepting a student request the instructor/mentor accept \(..\). Once a student request has been accepted the student will be notified via email and on the HQ. Instructor/mentors will be copied into the email, this way the student and instructor/mentor can communicate with each other. 
+To pick up a student request go to the **Mentoring Requests **section. This page will list all the available students requests. By accepting a student request the instructor/mentor accept \(..\). Once a student request has been accepted the student will be notified via email and on the HQ. Instructor/mentors will be copied into the email, this way the student and instructor/mentor can communicate with each other.
 
 #### Close Mentoring Session
 
-Once the instructor/mentor has finished a mentoring session the session should be closed. By closing the session, no further comments can be posted in the session. You can close the session by going to the **My Sessions **section, then choosing your **pending **mentoring session by clicking **"View". **Here you can click **"Close Session" **to close your mentoring session. 
+Once the instructor/mentor has finished a mentoring session the session should be closed. By closing the session, no further comments can be posted in the session. You can close the session by going to the **My Sessions **section, then choosing your **pending **mentoring session by clicking **"View". **Here you can click **"Close Session" **to close your mentoring session.
 
 #### My Session
 
-In the **My Sessions **section you will be able to a list of all the mentoring session you have picked up. You may view all your **"Pending" **and **"Completed" **session from this page. 
-
- 
-
- 
-
-
+In the **My Sessions **section you will be able to a list of all the mentoring session you have picked up. You may view all your **"Pending" **and **"Completed" **sessions from this page.
 
