@@ -13,4 +13,7 @@ In the following chapters, each of the levels is described on what functions the
 If you are a using the HQ site, please use the latest version of Google Chrome or Mozilla Firefox. Other browsers may have certain issues with some functionality. Below are links to the latest versions of Chrome and Firefox.
 
 Google Chrome: [https://www.google.com/chrome/](https://www.google.com/chrome/) 
-<br/>Mozilla Firefox: [https://www.mozilla.org/firefox](https://www.mozilla.org/firefox)
+Mozilla Firefox: [https://www.mozilla.org/firefox](https://www.mozilla.org/firefox)
+
+**HQ System URL**
+Currently, the VATAME HQ system is hosted at [https://hq.vatme.net](https://hq.vatme.net)
