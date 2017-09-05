@@ -8,15 +8,16 @@
 
 ## HQ Menu
 
+* [Dashboard](dashboard.md)
 * [Members](members.md)
   * [ATC](members/atc.md)
   * Pilots
   * [Membership](members/membership.md)
-  * HQ Changelog
+  * [HQ Changelog](members/hq-changelog.md)
   * My Profile
   * My Stats
-  * NOTAMs
-  * Notifications
+  * [NOTAMs](members/notams.md)
+  * [Notifications](members/notifications.md)
   * TeamSpeak
   * VATSIM Forums
   * View Staff List
