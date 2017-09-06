@@ -11,16 +11,16 @@
 * [Dashboard](dashboard.md)
 * [Members](members.md)
   * [ATC](members/atc.md)
-  * Pilots
+  * [Pilots](members/pilots.md)
   * [Membership](members/membership.md)
   * [HQ Changelog](members/hq-changelog.md)
-  * My Profile
-  * My Stats
+  * [My Profile](members/my-profile.md)
+  * [My Stats](members/my-stats.md)
   * [NOTAMs](members/notams.md)
   * [Notifications](members/notifications.md)
-  * TeamSpeak
-  * VATSIM Forums
-  * View Staff List
+  * [TeamSpeak](members/teamspeak.md)
+  * [VATSIM Forums](members/vatsim-forums.md)
+  * [View Staff List](members/view-staff-list.md)
 * [BoG/Founders](/bogfounders.md)
 * [Regional Staff](/regional-staff.md)
 * Division Staff
