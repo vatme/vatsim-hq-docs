@@ -28,10 +28,10 @@
   * [ATC Training](vacc-staff/atc-training.md)
   * [General](vacc-staff/general.md)
   * [Membership](vacc-staff/membership.md)
-  * Policy Center
-  * Support Tickets
-  * Tasks
-  * TeamSpeak Admin
+  * [Policy Center](policyprocedures.md)
+  * [Support Tickets](vacc-staff/support-tickets.md)
+  * [Tasks](vacc-staff/tasks.md)
+  * [TeamSpeak Admin](vacc-staff/teamspeak-admin.md)
 * [Instructors/Mentors](instructorsmentors.md)
   * Add My Time
   * Exam Report System
