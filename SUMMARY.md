@@ -46,7 +46,7 @@
 ## Modules
 
 * [Exam Center](exam-center.md)
-* Policy/Procedures
+* [Policy/Procedures](policyprocedures.md)
 * Tasks
 * [HQ Bot](/hq-bot.md)
 * [HQ API](/hq-api.md)
