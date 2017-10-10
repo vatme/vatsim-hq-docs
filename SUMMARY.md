@@ -27,7 +27,7 @@
 * [vACC Staff](vacc-staff.md)
   * [ATC Training](vacc-staff/atc-training.md)
   * [General](vacc-staff/general.md)
-  * Membership
+  * [Membership](vacc-staff/membership.md)
   * Policy Center
   * Support Tickets
   * Tasks
