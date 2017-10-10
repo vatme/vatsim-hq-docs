@@ -25,8 +25,8 @@
 * [Regional Staff](/regional-staff.md)
 * Division Staff
 * [vACC Staff](vacc-staff.md)
-  * ATC Training
-  * General
+  * [ATC Training](vacc-staff/atc-training.md)
+  * [General](vacc-staff/general.md)
   * Membership
   * Policy Center
   * Support Tickets
@@ -45,7 +45,7 @@
 
 ## Modules
 
-* Exam Center
+* [Exam Center](exam-center.md)
 * Policy/Procedures
 * Tasks
 * [HQ Bot](/hq-bot.md)
