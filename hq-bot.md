@@ -4,6 +4,8 @@
 
 The HQ system has a "bot" service that performs clean up operations on the system on a set interval \(hourly, daily, or weekly\). Over time, members may change division, or have their VATSIM account updated. By default, your account on HQ is updated each time you log in. If you do not log in within 24 hours and you are a resident member of one of the divisions that have given their Autotools access then the system will update your record automatically on a daily basis.
 
+Any actions that are done by the HQ Bot will appear in the system log as **HQ SYSTEM (000000)**.
+
 ### Functions
 
 The HQ bot performs the following functions...

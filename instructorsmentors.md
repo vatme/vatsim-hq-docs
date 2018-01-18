@@ -1,14 +1,22 @@
 # Instructors/Mentors
 
 ### Menu
-
 On the left side menu, there is a dropdown menu for **Instructors/Mentors **which shows you all the functions that are available to you. Some of the functions are explained below.
 
 ### Assigning Exams
-
 If you are an instructor or mentor and need to assign an exam, first go to the student's profile by searching their VATSIM ID at the top search bar on the HQ. On the student's profile page scroll down to the section **Exams** and use the dropdown to select the desired exam. Once the student has finished taking an exam all instructors/mentors in the vACC will be notified via email. You will also be able to come to the student's profile page to view their exams and results.
 
 **Instructors and mentors can only assign exams for members who are in their vACC.**
+
+### Modifying Approvals
+As a mentor/instructor you are able to modify a member's approvals and sign offs if that member is part of your vACC. To do this, go to your vACC page by clicking on the menu "Divisions/vACCs" and then choose your vACC on that page.
+![](/assets/vaccs1.PNG)
+
+On the vACC page, scroll down to the "ATC Roster" section. Under the column "Approved For", click on the relevant member you would like to modify.
+![](/assets/vaccs2.PNG)
+
+Finally, on this page you can change the member's approvals and sign offs. If your vACC has not enabled the sign off feature, you will only be able to change the approvals. Once you submit the new approvals, the member will receive an email notification about the change.
+![](/assets/vaccs3.PNG)
 
 ### Mentoring
 #### Pick a Mentoring Session
