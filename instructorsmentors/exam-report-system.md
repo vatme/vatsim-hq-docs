@@ -3,6 +3,6 @@ The exam report system allows instructors to submit reports once they have compl
 
 For certain divisions in the HQ system who are participating in the CERT-Access, the exam report system can be used to upgrade a student on the VATSIM CERT database. Once the report is submitted, the student will be upgraded automatically to the next rating specified on the report. An email notification is sent to all the vACC staff of the student, the division staff, and the regional staff to review the report.
 
-**Note: **Only instructors will be able to submit exam reports. The director/deputy director can also submit exam reports.
+**Note:** Only instructor rated members in the vACC will be able to submit exam reports. The region and division director/deputy can also submit exam reports.
 
 ![](/assets/ers1.PNG)
