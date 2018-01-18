@@ -14,6 +14,10 @@ If you are a staff and are assigned on a task in the HQ, they will be listed on 
 This section shows currently available group flights that members have created. You can join a group flight or create your own and have other members join!
 ![](/assets/gfdash.PNG)
 
-### Events Calendar
-The events calendar lists all the events that have been added by staff in the HQ system from all regions in the HQ. 
-![](/assets/calendar.png)
+### Events
+All upcoming events that are sponsored by the regions, divisions, or vACCs in the HQ system will be display on a calendar on the dashboard (homepage). You can view this calendar any time by clicking the "Dashboard" link on the left side menu.
+![](https://hq.vatme.net/hqfaq/images/calendar.png)
+
+#### Event ATC/Flight Booking
+You can click on an event in the calendar to view the event page for that event. On the event page, there may also be ATC and flight bookings. These are added by the staff who created the event. The ATC booking page is used to coordinate ATC for an event. The flight booking page allows **any** member of VATSIM to log into HQ and book a flight.
+![](https://hq.vatme.net/hqfaq/images/calendar2.png)
