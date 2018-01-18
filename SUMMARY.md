@@ -28,14 +28,14 @@
   * [Membership](regional-staff/membership.md)
   * [Policy Center](policyprocedures.md)
   * [Support Tickets](support-tickets.md)
-  * Tasks
+  * [Tasks](tasks.md)
 * [Division Staff](division-staff.md)
   * ATC Training
   * General
   * Membership
   * Policy Center
   * [Support Tickets](support-tickets.md)
-  * Tasks
+  * [Tasks](tasks.md)
   * [TeamSpeak Admin](division-staff/teamspeak-admin.md)
 * [vACC Staff](vacc-staff.md)
   * [ATC Training](vacc-staff/atc-training.md)
@@ -43,10 +43,10 @@
   * [Membership](vacc-staff/membership.md)
   * [Policy Center](policyprocedures.md)
   * [Support Tickets](support-tickets.md)
-  * [Tasks](vacc-staff/tasks.md)
+  * [Tasks](tasks.md)
   * [TeamSpeak Admin](vacc-staff/teamspeak-admin.md)
 * [Instructors/Mentors](instructorsmentors.md)
-  * Add My Time
+  * [Add My Time](instructorsmentors/add-my-time.md)
   * Exam Report System
   * Mentoring Sessions
   * Mentoring Requests
