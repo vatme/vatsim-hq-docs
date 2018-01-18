@@ -23,7 +23,7 @@ Any vACC staff can add CharSceCtor (Charts, Sceneries, Sector Files, and Miscell
 
 ![](/assets/charscector1.PNG)
 
-### HQ System STats
+### HQ System Stats
 This page lists HQ stats viewable by any staff member.
 
 ### Staff List
