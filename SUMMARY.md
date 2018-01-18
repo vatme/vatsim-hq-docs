@@ -22,7 +22,6 @@
   * [Notifications](members/notifications.md)
   * [TeamSpeak](members/teamspeak.md)
   * [VATSIM Forums](members/vatsim-forums.md)
-  * ATC/Pilot Booking
 * [BoG/Founders](/bogfounders.md)
 * [Regional Staff](/regional-staff.md)
   * [ATC Training](regional-staff/atc-training.md)

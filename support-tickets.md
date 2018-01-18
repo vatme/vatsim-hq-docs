@@ -19,8 +19,8 @@ Any member of your team can view the ticket as well as staff that are above you.
 
 ![](/assets/suptickets1.PNG)
 
-**A vACC staff member** - will only see tickets for their vACC
-**A division staff member** - will see tickets assigned to their division staff and all vACCs under their division.
+**A vACC staff member** - will only see tickets for their vACC<br/>
+**A division staff member** - will see tickets assigned to their division staff and all vACCs under their division.<br/>
 **A regional staff member** - will see tickets assigned to their region staff and all tickets assigned to the vACCs/divisions under their region.
 
 ### Commenting

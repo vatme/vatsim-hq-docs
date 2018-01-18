@@ -12,8 +12,8 @@ On the homepage of the HQ system (Dashboard page), if you are assigned a task an
 ### View Tasks
 You can view tasks under your general staff role.
 
-**A vACC staff** - can view all tasks they are a part of.
-**A division staff** - can view all tasks they are a part of or if one of the members in the task in the task is part of their division.
+**A vACC staff** - can view all tasks they are a part of.<br/>
+**A division staff** - can view all tasks they are a part of or if one of the members in the task in the task is part of their division.<br/>
 **A regional staff** - can view all tasks they are a part of or if one of the members in the task in the task is part of their region.
 
 ![](/assets/tasks2.PNG)
