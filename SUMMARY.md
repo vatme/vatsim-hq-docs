@@ -49,6 +49,7 @@
   * [Tasks](tasks.md)
   * [TeamSpeak Admin](vacc-staff/teamspeak-admin.md)
 * [Instructors/Mentors](instructorsmentors.md)
+  * [Introduction](instructorsmentors/introduction.md)
   * [Add My Time](instructorsmentors/add-my-time.md)
   * [Exam Report System](instructorsmentors/exam-report-system.md)
   * [Mentoring Sessions](instructorsmentors/mentoring-sessions.md)
