@@ -50,7 +50,17 @@ The HQ system log lists all the actions that have been performed on the system. 
 ![](/assets/logs1.PNG)
 
 ### vACC Settings
-Settings for the vACC are listed here. These include settings such as vACC description, welcome messages, theory exam re-assign limits, etc. Most settings are editable only by the vACC director or deputy director. This is the top form.
+Settings for the vACC are listed here. These include settings such as vACC description, welcome messages, etc. Most settings are editable only by the vACC director or deputy director on the top form.
+
+- **vACC Description** is a description for the vACC and what members can see when they go to the vACC page on the HQ.
+- **vACC Welcome Message** is a message resident members see when they first choose to join your vACC. This can also be viewed again on the HQ vACC page.
+- **vACC Website** should be added if your vACC has its own website. Please make sure to include the full website address including the http://...
+- **Exam Re-Assign (Days)** is used for theory exam reassignments when a student has failed their theory exam and the specific exam does not have its own "re-assign" value.
+- **Obs Requests** stands for "observation requests" module on the HQ system. This allows ATC members in your vACC to post video links of them controlling online and then your vACC mentors/instructors can review those videos to understand how a member is progressing over time.
+- **ATC Sign Off** is used by some vACCs for training purposes with the above Obs Requests module. This allows vACCs to manage their members' training and "sign off" the member on a position once they have shown proficiency in it.
+- **Mentor/INS Add Time** allows mentors and instructors in your vACC to be able to post their own times on the HQ so that students can choose them. Some vACCs would like to restrict this and as such it is its own option. This first option is for ALL RATINGS (no restrictions).
+- **Mentor/INS Add Time (OBS)** allows the same function as the one above but only restricts mentors to post times for OBS-rated members so that only those members rated OBS can choose a mentor's availability time. This gives priority to those OBS rated members in your vACC to be able to start controlling.
+- **ATC Feedback** enables the ATC feedback for your vACC so that VATSIM members can log into the HQ system to leave feedback for your controllers and allow staff members in your vACC to review them.
 
 The bottom form is editable by any vACC staff and that is the vACC banner image. This is the homepage image of the vACC and should be a direct image link. Prior coordination should be done with your vACC staff before changing this image!
 

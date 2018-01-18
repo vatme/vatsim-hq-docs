@@ -14,9 +14,11 @@ Currently only simple multiple choice exams can be created in the HQ system. On 
 
 **Number of Questions** is how many questions should the exam have when a student is taking it. If your number of questions is higher than this, then a random number of questions will be taken. For example, if your exam has a total of 50 questions but you set this option to 25...then 25 questions will be randomly chosen from the pool of 50 questions.
 
+**Re-Assign Days** is after how many days should the exam be re-assigned to the student after they have failed. This is done automatically by the HQ system so once a student fails an exam and if it contains a "re-assign days" then it will automatically assign the exam again to the student.
+
 **Exam Info** is information you can provide to the student about the exam. This can include an introduction to the exam or links to what materials they should review before attempting the exam. This is shown to the student before they begin the exam.
 
-![](/assets/exams2.PNG)
+![](/assets/exams8.PNG)
 
 ### Adding a Question
 Once you have created the exam, you will be taken to the questions page for the exam where you will need to add questions. Click on the green "Add a Question" on the top right of the page to add a question.
