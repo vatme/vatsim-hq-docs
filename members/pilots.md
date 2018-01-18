@@ -13,7 +13,7 @@ This is an HQ module to create group flights and invite your fellow VATSIM membe
 On the group flight page, click the green "Create Group Flight" button on the top right of the page. Next fill in the info on the form...
 - Departure/Arrival airports should be in ICAO format
 - Departure time should be in UTC
-- Flight Info should include any necessary information for the other members (teamspeak info, charts, sceneries, etc). **Do not post copyrighted links as that will result in a ban from creating further group flights.**
+- Flight Info should include any necessary information for the other members (teamspeak info, charts, sceneries, etc). **Do not post copyrighted or illegal links as that will result in a ban from creating further group flights.**
 
 ![](/assets/gf2.PNG)
 

@@ -46,6 +46,19 @@ The exam reports shows all the CPT (controller practical test) reports that have
 
 ![](/assets/examreps1.PNG)
 
+### Leave of Absence (LOA)
+The LOA module allows vACC ATC training staff to add members on their LOA list to keep track of active and inactive members. Any resident or visiting member in your vACC can be added to the LOA roster. A maximum of 90 days is allowed each time from start date to end date. **This feature must be enabled by your vACC director/deputy on the vACC settings page.**
+
+![](/assets/loa1.PNG)
+
+To create an LOA, click the green "Create LOA" button on the top right of the page. You can only add an LOA for a resident/visitor member in your vACC.
+![](/assets/loa2.PNG)
+
+Once the member has been added to the LOA, they will receive an email notification about it. Their previous approvals and any sign offs will also be recorded and shown on the LOA main page. **The member will be un-approved on the roster once they are added to the LOA.**
+![](/assets/loa3.PNG)
+
+Once the member is removed from LOA, the HQ system will automatically set their previous approvals and sign offs again on their profile.
+
 ### Mentoring Sessions
 View all the mentoring sessions that are pending or have been completed in your vACC. The top table shows all the mentoring sessions in PENDING status and the bottom table shows those sessions that have been CLOSED by the mentor/instructor. 
 
