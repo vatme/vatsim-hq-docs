@@ -8,10 +8,12 @@ News from your respective region, division, and vACC for which you are a residen
 
 ### Tasks
 If you are a staff and are assigned on a task in the HQ, they will be listed on this page (limited to 5 tasks). Clicking a task "Subject" will take you directly to the task or you can click "View All" on the table header to view all tasks you are part of.
-
 ![](/assets/task1.PNG)
+
+### Group Flights
+This section shows currently available group flights that members have created. You can join a group flight or create your own and have other members join!
+![](/assets/gfdash.PNG)
 
 ### Events Calendar
 The events calendar lists all the events that have been added by staff in the HQ system from all regions in the HQ. 
-
 ![](/assets/calendar.png)
