@@ -2,8 +2,10 @@
 This page allows you to add a visitor controller to your vACC. Only add the VATSIM ID of the visitor controller - the member only needs to be a member of VATSIM. Only the vACC director, deputy, or ATC training directors can add/remove visitor ATC.
 
 Once they are added, you will need to ask the member to log out of the HQ system (using the top right Log Out) and log back into HQ to refresh their status.
-
 ![](/assets/addvis1.PNG)
+
+You can also navigate to your vACC page (on the left menu, click **Divisions/vACCs** and then choose your vACC) to find which visiting members have not logged into HQ yet. Scroll down to the ATC roster section and any member with a yellow PENDING label means they have not logged into HQ yet.
+![](/assets/vischeck.PNG)
 
 ### E-mail Members
 The vACC staff have the ability to mass email their members based on a variety of conditions. There are multiple "Groups" on which you can email. This can be just residents, visitors, residents AND visitors, etc. 
