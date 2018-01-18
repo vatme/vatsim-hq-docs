@@ -26,15 +26,15 @@
   * [ATC Training](regional-staff/atc-training.md)
   * [General](regional-staff/general.md)
   * [Membership](regional-staff/membership.md)
-  * Policy Center
-  * Support Tickets
+  * [Policy Center](policyprocedures.md)
+  * [Support Tickets](support-tickets.md)
   * Tasks
 * [Division Staff](division-staff.md)
   * ATC Training
   * General
   * Membership
   * Policy Center
-  * Support Tickets
+  * [Support Tickets](support-tickets.md)
   * Tasks
   * [TeamSpeak Admin](division-staff/teamspeak-admin.md)
 * [vACC Staff](vacc-staff.md)
@@ -42,7 +42,7 @@
   * [General](vacc-staff/general.md)
   * [Membership](vacc-staff/membership.md)
   * [Policy Center](policyprocedures.md)
-  * [Support Tickets](vacc-staff/support-tickets.md)
+  * [Support Tickets](support-tickets.md)
   * [Tasks](vacc-staff/tasks.md)
   * [TeamSpeak Admin](vacc-staff/teamspeak-admin.md)
 * [Instructors/Mentors](instructorsmentors.md)
@@ -59,8 +59,8 @@
 ## Modules
 
 * [Exam Center](exam-center.md)
-* [Policy/Procedures](policyprocedures.md)
-  * [Creating a Policy](policyprocedures/creating-a-policy.md)
+* [Policy Center](policyprocedures.md)
+* [Support Tickets](support-tickets.md)
 * [Tasks](tasks.md)
 * [HQ Bot](/hq-bot.md)
 * [HQ API](/hq-api.md)
