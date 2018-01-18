@@ -23,7 +23,20 @@
   * [View Staff List](members/view-staff-list.md)
 * [BoG/Founders](/bogfounders.md)
 * [Regional Staff](/regional-staff.md)
-* Division Staff
+  * [ATC Training](regional-staff/atc-training.md)
+  * [General](regional-staff/general.md)
+  * [Membership](regional-staff/membership.md)
+  * Policy Center
+  * Support Tickets
+  * Tasks
+* [Division Staff](division-staff.md)
+  * ATC Training
+  * General
+  * Membership
+  * Policy Center
+  * Support Tickets
+  * Tasks
+  * [TeamSpeak Admin](division-staff/teamspeak-admin.md)
 * [vACC Staff](vacc-staff.md)
   * [ATC Training](vacc-staff/atc-training.md)
   * [General](vacc-staff/general.md)
@@ -47,7 +60,8 @@
 
 * [Exam Center](exam-center.md)
 * [Policy/Procedures](policyprocedures.md)
-* Tasks
+  * [Creating a Policy](policyprocedures/creating-a-policy.md)
+* [Tasks](tasks.md)
 * [HQ Bot](/hq-bot.md)
 * [HQ API](/hq-api.md)
 
