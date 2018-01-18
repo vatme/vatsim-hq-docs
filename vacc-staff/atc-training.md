@@ -1,5 +1,5 @@
 ### Add Mentor
-This page allows you to add a mentor to your vACC. Only resident members with a controller rating of S1, S2, S3, C1, C3, SUP, or ADM can be added as a mentor. Members rated I1 or I3 cannot be added as a mentor and must be added as an Instructor.
+This page allows you to add a mentor to your vACC. Only resident members with a controller rating of S1, S2, S3, C1, C3, SUP, or ADM can be added as a mentor. Members rated I1 or I3 cannot be added as a mentor and must be marked as an Instructor on your vACC roster page.
 
 ![](/assets/atcmentor1.PNG)
 

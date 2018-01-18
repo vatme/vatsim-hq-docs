@@ -30,10 +30,10 @@
   * [Support Tickets](support-tickets.md)
   * [Tasks](tasks.md)
 * [Division Staff](division-staff.md)
-  * ATC Training
-  * General
-  * Membership
-  * Policy Center
+  * [ATC Training](atc-training.md)
+  * [General](general.md)
+  * [Membership](membership.md)
+  * [Policy Center](policyprocedures.md)
   * [Support Tickets](support-tickets.md)
   * [Tasks](tasks.md)
   * [TeamSpeak Admin](division-staff/teamspeak-admin.md)
@@ -47,14 +47,14 @@
   * [TeamSpeak Admin](vacc-staff/teamspeak-admin.md)
 * [Instructors/Mentors](instructorsmentors.md)
   * [Add My Time](instructorsmentors/add-my-time.md)
-  * Exam Report System
-  * Mentoring Sessions
-  * Mentoring Requests
-  * My Sessions
-  * Observation Requests
-  * Pending Exam Tokens
-  * Solo Validations
-  * System Log
+  * [Exam Report System](instructorsmentors/exam-report-system.md)
+  * [Mentoring Sessions](instructorsmentors/mentoring-sessions.md)
+  * [Mentoring Requests](instructorsmentors/mentoring-requests.md)
+  * [My Sessions](instructorsmentors/my-sessions.md)
+  * [Observation Requests](instructorsmentors/observation-requests.md)
+  * [Pending Exam Tokens](instructorsmentors/pending-exam-tokens.md)
+  * [Solo Validations](instructorsmentors/solo-validations.md)
+  * [System Log](instructorsmentors/system-log.md)
 
 ## Modules
 
