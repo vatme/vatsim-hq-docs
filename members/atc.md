@@ -1,3 +1,11 @@
+### ATC Booking
+ATC booking allows resident and visiting members of vACCs in the HQ system to book positions. The bookings are submitted to the [vRoute system](http://www.vroute.net/) as well.
+
+The "position" section on this form is taken from the entries that the vACC staff enter on the [ATC Stats page](/vacc-staff/atc-training.md). If you do not see a certain position on this list that should be there, please contact the vACC staff and ask them to add the position so that it can be booked.
+
+**Please be sure to read the ATC booking rules on the page prior to submitting your request.**
+![](/assets/atcbookdoc.PNG)
+
 ### ATC Feedback
 The ATC feedback allows members on the VATSIM network to leave feedback for controllers. You can leave feedback to any visitor or resident controller who is in the HQ system.
 

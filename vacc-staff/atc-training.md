@@ -16,6 +16,8 @@ This page is similar to the ATC stats page shown in the Members menu, however, t
 ##### Add position
 The ATC stats only monitors positions that have been added by the vACC staff. The vACC staff should add all the ATC positions within their vACC only. Once the position has been added, it will be monitored immediately. ATC positions can only be added by the vACC director, vACC deputy director or vACC ATC training director.
 
+Positions that are added here are also used in other parts of the system such as on the ATC Booking and ATC Feedback pages.
+
 ##### View Positions
 View ATC positions that have been added in the HQ system, including by who added the position and their relevant division and vACC. You may also remove a position here that was added previously by your vACC staff. 
 
